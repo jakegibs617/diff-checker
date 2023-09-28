@@ -1,0 +1,36 @@
+del {
+  text-decoration: none;
+  color: #b30000;
+  background: #fadad7;
+}
+
+ins {
+  background: #eaf2c2;
+  color: #406619;
+  text-decoration: none;
+}
+
+.collapsible-container {
+  margin-bottom: 20px;
+}
+
+.toggle-button {
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  text-align: center;
+  border: none;
+  outline: none;
+  width: 100%;
+}
+
+.collapsible-content {
+  display: block;
+  overflow: hidden;
+  padding: 0 18px;
+}
+
+textarea {
+  box-sizing: border-box;
+}
